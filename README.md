@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate Front-End Developer and Computer Science Student based in Poland, Kraków 📍</h3>
 
