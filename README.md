@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Junior Software Engineer, based in Poland 📍</h3>
 
-- 🔭 I’m currently working on **disney+ clone and chat messaging app**
+- 🖥 I've been coding in Python for over 2 years 
 
-- 👯 I’m looking to **collaborate on more advanced project ideas**
+- 🤓 Currently learning JavaScript and Python
 
-- 🤝 I’m looking for work **as a Software Engineer**
+- 🙈 You can follow me on LinkedIn 
 
 - 💬 Ask me about **Python**
 
