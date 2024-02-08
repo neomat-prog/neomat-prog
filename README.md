@@ -1,18 +1,15 @@
-![Header](./github-header.png)
+
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A passionate Front-End Developer and Computer Science Student based in Poland, Kraków 📍</h3>
+<h3 align="center">Junior Software Engineer, based in Poland 📍</h3>
 
 - 🔭 I’m currently working on **disney+ clone and chat messaging app**
 
-- 🌱 I’m currently learning **React, ReactNative,**
-
 - 👯 I’m looking to **collaborate on more advanced project ideas**
 
-- 🤝 I’m looking for work **as a Front-End Developer trainee**
+- 🤝 I’m looking for work **as a Software Engineer**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Python**
 
-- ⚡ Interests **I am a huge Mercedes AMG Petronas Formula 1 Team fan, LH44 Team :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
