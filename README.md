@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">Junior Full Stack Developer, based in Poland 📍</h3>
+<h3 align="center">Software Engineer, based in Poland 📍</h3>
 
 - 🖥 I've been coding in Python for over 2 years 
 
