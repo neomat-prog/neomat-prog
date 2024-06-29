@@ -4,8 +4,6 @@
 
 - 🖥 I've been coding in Python for over 2 years 
 
-- 🤓 Currently learning Golang
-
 - 🙈 You can follow me on LinkedIn 
 
 - 💬 Ask me about **Python**
