@@ -4,6 +4,8 @@
 
 - 🖥 I've been coding in Python for over 2 years 
 
+-🏎️ Formula 1 Addict
+
 - 🙈 You can follow me on LinkedIn 
 
 - 💬 Ask me about **Python**
