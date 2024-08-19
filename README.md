@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Software Engineer, based in Poland 📍</h3>
 
-- 🖥 I've been coding in Python for over 2 years
+- 🖥 I've been coding in Python for over 2 years and studying JS for over a year!
 
 - 👨‍🎓 Student of Politechnika Krakowska 
 
