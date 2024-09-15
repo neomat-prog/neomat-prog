@@ -10,7 +10,7 @@
 
 - 🙈 You can follow me on LinkedIn 
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **anything** 🙂
 
 
 <h3 align="left">Connect with me:</h3>
