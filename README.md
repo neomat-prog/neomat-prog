@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Software Engineer, based in Poland 📍</h3>
 
-- 🖥 I've been coding in JavaScript for over 2 years!
+- 🖥 I've been coding for over 2 years, mainly specializing in C++/Python and JavaScript!
 
-- 👨‍🎓 Student of Politechnika Krakowska 
+- 👨‍🎓 Student of Politechnika Krakowska im. Tadeusza Kościuszki
 
 - 🏎️ Formula 1 Addict
 
