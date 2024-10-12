@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">University of Technology in Cracow, based in Poland 📍</h3>
+<h3 align="center">Student of the University of Technology in Cracow, based in Poland 📍</h3>
 
 - 🖥 React ✅ JavaScript ✅ Python ✅ Node.JS ✅
 
