@@ -4,7 +4,7 @@
 
 - 🖥 Python ✅ 
 
-- 👨‍🎓 Student of Politechnika Krakowska im. Tadeusza Kościuszki
+- 👨‍🎓 Cracow University of Technology Student
 
 - 🏎️ Formula 1 Addict
 
