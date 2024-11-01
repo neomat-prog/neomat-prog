@@ -4,7 +4,7 @@
 
 - 🖥 Python ✅ C/C++ ✅ JavaScript ✅
 
-- 👨‍🎓 Cracow University of Technology Student
+- 👨‍🎓 Currently Studying Computer Engineering
 
 - 🏎️ Formula 1 Addict
 
