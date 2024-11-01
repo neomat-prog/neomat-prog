@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Student of the University of Technology in Cracow, based in Poland 📍</h3>
 
-- 🖥 Python Engineer 
+- 🖥 Python ✅ C/C++ ✅ JavaScript ✅
 
 - 👨‍🎓 Cracow University of Technology Student
 
