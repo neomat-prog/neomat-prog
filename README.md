@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Junior Software Engineer and a Student of The University of Technology in Kraków 📍</h3>
 
-- 🖥 Python ✅ C/C++ 📖 Go 👩🏻‍💻
+- 🖥 Python ✅ C/C++ 📖 JS 👩🏻‍💻
 
 - 👨‍🎓 Currently Studying Computer Engineering
 
