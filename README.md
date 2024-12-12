@@ -8,15 +8,15 @@
 
 <h2 align="left">About me</h2>
 
-###
 
-<h4 align="center">👨‍🎓 Currently Studying Computer Engineering<br><br>🏎️ Formula 1 Addict<br><br>🙈 You can follow me on LinkedIn<br><br>💬 How's it going?</h4>
 
-###
-
-<h2 align="left">Tech Stack</h2>
+<h3 align="center">👨‍🎓 Currently Studying Computer Engineering<br><br>🏎️ Formula 1 Addict<br><br>🙈 You can follow me on LinkedIn<br><br>💬 How's it going?</h3>
 
 ###
+
+<h2 align="center">Tech Stack</h2>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+
 
 <h4 align="center">You can follow me on</h4>
 
