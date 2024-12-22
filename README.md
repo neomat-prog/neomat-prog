@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">👨‍🎓 Currently Studying Computer Engineering<br><br>🏎️ Formula 1 Addict<br><br>🙈 You can follow me on LinkedIn<br><br></h3>
+<h3 align="center">👨‍🎓 Currently Studying Computer Engineering<br><br>🏎️ Formula 1 Addict<br><br>🙈 JS and Python Fanatic<br><br></h3>
 
 ###
 
