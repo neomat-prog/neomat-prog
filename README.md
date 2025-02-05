@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neomat-prog&label=Profile%20views&color=0e75b6&style=flat" alt="neomat-prog" /> </p>
 
-- 🔭 I’m currently working on my **Portfolio**
+- 🔭 I’m currently working on a **Backend Service**
 
 - 🌱 I’m currently learning **React**
 
