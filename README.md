@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Backend Service**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node.js**
 
 - 💬 Ask me about **React and JS**
 
