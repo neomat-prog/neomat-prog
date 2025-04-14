@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **websocket app**
 
-- 🌱 I’m currently learning **React** and **Node.js**
+- 🌱 I’m currently learning **React** and **Node.js**, Planning on learnign **Go**
 
 - 👁️ Looking for contributors to my app
 
