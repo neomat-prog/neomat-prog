@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React** and **Node.js**
 
-- 💬 Ask me about **React and JS**
+- 👁️ Looking for contributors to my app
 
 - 📫 How to reach me **kacperbd92@gmail.com**
 
