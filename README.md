@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React** and **Node.js**, Planning on learning **Go**
 
--📚 Student of Cracow University of Technology
+- 📚 Student of Cracow University of Technology
 
 - 📫 How to reach me **kacperbd92@gmail.com**
 
