@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">Fullstack Engineer, based in Cracow 📍</h3>
+<h3 align="center">Computer Engineering Student, based in Cracow 📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neomat-prog&label=Profile%20views&color=0e75b6&style=flat" alt="neomat-prog" /> </p>
 
