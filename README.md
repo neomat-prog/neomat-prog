@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **websocket app**
 
-- 🌱 I’m currently learning **React** and **Node.js**, Planning on learning **Go**
+- 🌱 Specializing in **Fullstack** development 
 
 - 📚 Student of Cracow University of Technology
 
