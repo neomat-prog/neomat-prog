@@ -57,17 +57,6 @@
   </tr>
 </table>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neomat-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="Kacper's GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neomat-prog&theme=tokyonight&hide_border=true" alt="Kacper's GitHub streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neomat-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## Connect With Me
 
 <div align="center">
