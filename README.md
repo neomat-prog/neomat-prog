@@ -1,11 +1,10 @@
 # Hi 👋, I'm Kacper
 
-I use vim to write code and touched COBOL once
-
 ## About Me
+I use vim to write code and I touched COBOL once
 - 🎓 Computer Engineering Student at Cracow University of Technology
 - 🚀 Using frameworks without understanding them!
-- 💻 Fullstack Developer passionate about creating seamless user experiences
+- 💻 I work with react 
 - 📍 Based in Cracow, Poland
 - 📫 **kacperbd92@gmail.com**
 
