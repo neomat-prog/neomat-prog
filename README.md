@@ -1,12 +1,10 @@
 # Hi 👋, I'm Kacper
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neomat-prog&label=Profile%20views&color=0e75b6&style=flat" alt="People who've seen my bugs" />
-</div>
+I use vim to write code and touched COBOL once
 
 ## About Me
 - 🎓 Computer Engineering Student at Cracow University of Technology
-- 🚀 Currently building a **real-time collaborative code editor with WebSockets**
+- 🚀 Using frameworks without understanding them!
 - 💻 Fullstack Developer passionate about creating seamless user experiences
 - 📍 Based in Cracow, Poland
 - 📫 **kacperbd92@gmail.com**
