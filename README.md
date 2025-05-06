@@ -3,14 +3,13 @@ Hello World! I'm Kacper 👋
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neomat-prog&label=Profile%20views&color=0e75b6&style=flat" alt="People who've seen my bugs" />
 </div>
-About Me
 
-🎓 Computer Engineering Student at Cracow University of Technology 
-🚀 Currently building a real-time collaborative code editor with WebSockets
-💻 Fullstack Developer who spends 50% of my time writing code and 90% of my time debugging it
-📍 Based in Cracow, Poland
-🐞 Professional bug creator
-📫 kacperbd92@gmail.com 
+## About Me
+- 🎓 Computer Engineering Student at Cracow University of Technology
+- 🚀 Currently building a **real-time collaborative code editor with WebSockets**
+- 💻 Fullstack Developer passionate about creating seamless user experiences
+- 📍 Based in Cracow, Poland
+- 📫 **kacperbd92@gmail.com**
 
 Skills
 <table>
@@ -56,3 +55,17 @@ Skills
     </td>
   </tr>
 </table>
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/neomat-prog" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kacperbd92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
