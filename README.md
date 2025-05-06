@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kacper
 
-## About Me
+# About Me
 I use vim to write code and I touched COBOL once
 - 🎓 Computer Engineering Student at Cracow University of Technology
 - 🚀 Using frameworks without understanding them!
