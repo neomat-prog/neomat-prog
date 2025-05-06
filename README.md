@@ -1,4 +1,4 @@
-Hello World! I'm Kacper 👋
+# Hi 👋, I'm Kacper
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neomat-prog&label=Profile%20views&color=0e75b6&style=flat" alt="People who've seen my bugs" />
@@ -48,6 +48,7 @@ Skills
       <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git - My time machine for code disasters" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code - My second home" />
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim - Because I enjoy the thrill of not knowing how to exit" />
         <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker - It works in a container, ship it!" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux - Because I enjoy typing 'sudo' to feel powerful" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Where my green squares give me dopamine" />
