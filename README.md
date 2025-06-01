@@ -4,7 +4,7 @@
 I use vim to write code and I touched COBOL once
 
 - 🎓 Computer Engineering Student at Cracow University of Technology
-- 🚀 Using frameworks without understanding them!
+- 🚀 Shipping as soon as it compiles!
 - 💻 I work with React
 - 📍 Based in Cracow, Poland
 - 📫 kacperbd92@gmail.com
