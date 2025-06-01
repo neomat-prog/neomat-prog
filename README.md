@@ -1,5 +1,14 @@
 # Hi 👋, I'm Kacper
 
+About Me
+I use vim to write code and I touched COBOL once
+
+🎓 Computer Engineering Student at Cracow University of Technology
+🚀 Using frameworks without understanding them!
+💻 I work with React
+📍 Based in Cracow, Poland
+📫 kacperbd92@gmail.com
+
 Skills
 Programming Languages
 <div align="left">
