@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kacper
 
 ## About Me
-I use vim to write code and I touched COBOL once
+Front-End Developer
 
 - 🎓 Computer Engineering Student at Cracow University of Technology
 - 🚀 Shipping as soon as it compiles!
