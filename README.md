@@ -25,11 +25,6 @@ I also know how to write spaghetti code on the backend using Node.js and Express
   
 </div>
 
-### Other Skills
-- 💻 Computer (Turn ON/OFF)
-- 🗣️ Corporate Jargon
-- ⚡ Legacy Code Archaeology (COBOL survivor)
-
 ## Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
