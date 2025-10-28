@@ -6,7 +6,7 @@ I also know how to write spaghetti code on the backend using Node.js and Express
 
 - 🎓 Computer Engineering Student at Cracow University of Technology
 - 🚀 Shipping as soon as it compiles!
-- 💻 I work with React/Angular
+- 💻 I work with React & Node.js
 - 📍 Based in Cracow, Poland
 - 📫 kacperbd92@gmail.com
 
