@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kacper
 
 ## About Me
-I'm a Front-End Developer, mainly specializing in React and Typescript.</br>
+I'm a Software Engineer, mainly specializing in React and Typescript.</br>
 I also know how to write spaghetti code on the backend using Node.js and Express :)
 
 - 🎓 Computer Engineering Student at Cracow University of Technology
