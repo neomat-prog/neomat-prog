@@ -4,11 +4,14 @@ const kacper = {
   role: "software engineer",
   years: 3,
   editors: ["neovim", "vscode"],
-  languages: ["typescript", "c++"],
+  languages: ["typescript", "c++", "golang"],
   frameworks: {
     backend: ["node", "express", "effect-ts", "bun"],
     frontend: ["react", "next.js", "zustand"],
     mobile: ["react-native", "expo"],
+  },
+  cloud: {
+    providers: ["gcp"],
   },
 } as const;
 
