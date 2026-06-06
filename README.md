@@ -1,7 +1,7 @@
 
 ```ts
 const kacper = {
-  role: "software engineer",
+  role: "fullstack engineer",
   years: 3,
   editors: ["neovim", "vscode"],
   languages: ["typescript", "c++", "golang"],
