@@ -4,7 +4,7 @@ const kacper = {
   role: "fullstack engineer",
   years: 3,
   editors: ["neovim", "vscode"],
-  languages: ["typescript", "c++", "golang"],
+  languages: ["typescript", "golang"],
   frameworks: {
     backend: ["node", "express", "effect-ts", "bun"],
     frontend: ["react", "next.js", "zustand"],
