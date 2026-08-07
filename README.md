@@ -10,7 +10,7 @@ const kacper = {
 
   frameworks: {
     backend: ["node", "express", "effect-ts", "bun"],
-    frontend: ["react", "next.js", "zustand"],
+    frontend: ["react", "next.js", "zustand", "tanstack"],
     mobile: ["react-native", "expo"],
   },
 
