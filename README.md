@@ -1,24 +1,16 @@
 
 ```ts
 const kacper = {
-  role: "fullstack engineer",
+  role: "software engineer",
   years: 3,
 
   editors: ["neovim", "vscode"],
 
-  languages: ["typescript", "golang"],
-
-  frameworks: {
-    backend: ["node", "express", "effect-ts", "bun"],
-    frontend: ["react", "next.js", "zustand", "tanstack"],
-    mobile: ["react-native", "expo"],
-  },
-
-  infrastructure: {
-    cloud: ["gcp"],
-    containers: ["docker"],
-    orchestration: ["kubernetes"],
-    tooling: ["kubectl"],
+  stack: {
+    languages: ["typescript", "go"],
+    backend: ["node", "express", "gin"],
+    frontend: ["react", "zustand", "tanstack query"],
+    infra: ["gcp", "docker", "kubernetes", "kafka"],
   },
 } as const;
 
