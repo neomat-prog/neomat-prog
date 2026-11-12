@@ -4,7 +4,7 @@ const kacper = {
   role: "software engineer",
   years: 3,
 
-  editors: ["neovim", "vscode"],
+  editors: ["zed", "neovim"],
 
   stack: {
     languages: ["typescript", "go"],
